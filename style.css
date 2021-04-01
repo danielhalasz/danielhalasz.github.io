@@ -4,4 +4,14 @@ body {
 
 header {
   background-color: aqua;
+  position: fixed;
+  width: 100%;
+}
+
+footer {
+  background-color: sandybrown;
+  position: fixed;
+  bottom: 50;
+  width: 100%;
+  padding: 10;
 }
