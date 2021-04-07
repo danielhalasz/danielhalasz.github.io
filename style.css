@@ -1,17 +1,23 @@
 body {
   background-color: indianred;
+  display: grid;
+  grid-auto-rows: minmax(150px, auto);
+  grid-gap: 10px;
 }
 
-header {
+nav {
+  display: inline-element;
   background-color: aqua;
-  position: fixed;
-  width: 100%;
+  padding: 10;
+}
+
+.general {
+  color: rgb(10, 209, 20);
+  background-color: black;
+  padding: 10;
 }
 
 footer {
   background-color: sandybrown;
-  position: fixed;
-  bottom: 50;
-  width: 100%;
   padding: 10;
 }
