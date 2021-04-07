@@ -20,6 +20,10 @@ nav ul li {
   display: inline-block;
 }
 
+li a:hover {
+  color: indianred;
+}
+
 .general {
   color: rgb(10, 209, 20);
   background-color: black;
