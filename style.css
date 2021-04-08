@@ -3,6 +3,7 @@ body {
   display: grid;
   grid-auto-rows: min-max(150px, auto);
   grid-gap: 10px;
+  font-family: "Courier New", Courier, monospace;
 }
 
 nav {
