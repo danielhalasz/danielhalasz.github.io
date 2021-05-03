@@ -2,6 +2,8 @@
 
 ## Hi there 👋
 
+- This is going to be a constantly developing website during my HYF studies.
+
 - 🔭 I am going to learn these languages and tools in 2021...  
 
 ![html](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
