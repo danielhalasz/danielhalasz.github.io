@@ -17,10 +17,13 @@ nav {
   z-index: 1;
 }
 
-nav ul li {
+nav ul {
+  margin: 15px -30px;
+}
+
+nav li {
   display: inline-block;
   padding: 6px;
-  right: 50px;
 }
 
 li a:hover {
