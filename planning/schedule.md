@@ -1,43 +1,20 @@
-# Planning
-
-## Group Rules
-
----
-
-## Communication Schedule
-
-| Day | How | The topic of discussion |
-| --- | :-: | ----------------------- |
-|     |     |                         |
+# Schedule
 
 ## Communication Channels
 
 how often will we get in touch on each channel, and what we will discuss there:
 
-- **Slack Messaging**:
-- **Slack Video Calls**:
-- **Issues**:
-- **Pull Requests**:
+- **Slack Messaging**: 24/7
+- **Jitsi Video Calls**: 2x
+- **Issues**: DM on Slack
+- **Pull Requests**: DM on Slack
 
-## Availability
+## Availability for messaging
 
-### Availability for calling/messaging
-
-| Day       |    name     |    name     |    name     |    name     |        name         |
-| --------- | :---------: | :---------: | :---------: | :---------: | :-----------------: |
-| Monday    | after 13:00 | after 12:00 | after 10:00 |   all day   | between 12:00-14:00 |
-| Tuesday   |   all day   | after 15:00 | after 14:00 |   all day   |     after 18:00     |
-| Wednesday | after 13:00 | after 12:00 | after 10:00 | after 13:00 |     after 18:00     |
-| Thursday  |   all day   | after 12:00 |    busy     |   all day   | between 12:00-14:00 |
-| Friday    |   all day   |   all day   |    busy     |   all day   |     after 18:00     |
-
-### How many hours everyone has per day:
-
-- name: _5h_;
-- name: _6h_;
-- name: _5h_;
-- name: _4h_;
-- name: _3h_;
+|           |    Monday  |  Tuesday   |  Wednesday   |  Thursday   |  Friday     |   Saturday   |
+| --------- | :--------: | :--------: | :---------:  | :---------: | :--------:  | :----------: |
+| Daniel    |  all day   |  all day   |  1600 - 2300 |  all day    |  all day    | unavailable  |
+| José      |            |            |              |             |             |              |
 
 ## Asking for Help
 
