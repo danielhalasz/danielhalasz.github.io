@@ -1,12 +1,12 @@
-# Designing NAME's Home Page
+# Designing Daniel's Home Page
 
 <!-- introduce your interviewee -->
-Interview with @JTLiberona by @danielhalasz.
+Interview with @danielhalasz @JTLiberona.
 
 
 ### Steps:
 
-- [Designing NAME's Home Page](#designing-names-home-page)
+- [Designing Daniel's Home Page](#designing-names-home-page)
     - [Steps:](#steps)
   - [1. First Interview](#1-first-interview)
       - [The challenge](#the-challenge)
@@ -72,40 +72,34 @@ The best way to do your interview is with a lot of `why?`. Start your interview 
 
 #### Background (Gral & job): 
 There was no artist in his family so, trials in life took him to follow this path.
-Daniel has experience in social projects with NGO and International cooperation.
-
-- PhD in the Arts (ongoing) //  LUCA School of Arts / KU Leuven
-- DLA Doctor of Liberal Arts (ongoing) //  Moholy-Nagy University of Art and Design
-- BFA + MFA Photography //  Moholy-Nagy University of Art and Design
-- Fine Art Photography // Glasgow School of Art
+Daniel has experience in social projects with NGOs and international cooperation.
 
 #### IT experience: 
-- Has a background in computer.
+- Has some experience with computers.
 - He feels comfortable with it.
-- He has experience in website designin with HTML and Wordpress (Editing templates) and a little of JS.
+- He has experience in website design with HTML and Wordpress (editing templates) and a little JS.
 
 #### Homepage:
-- He wants to explore new technics and frameworks and use this homepage as a showcase. 
-- It would be nice to try animation in the website into the structure it, for example: 2 Layers, the first one allows to see the back one with moving( at scrolling.)
-- 
+- He wants to explore new techniques and frameworks and use this homepage as a showcase. 
+- It would be nice to try animation in the website structure, for example: parallax effect.
   
 #### Future: 
-- He is open to develop Artistic projects, working in NGO and coding websites for Architecture Companies as a freelance.
+- He is open to develop artistic projects, working in NGO and coding websites for architecture companies as a freelancer.
 
 #### Personality: 
-- Empathic.
-- Perfectionist.
-- Likes challenges.
-- Doens't like injustice.
-- Sarcastic humor.
+- empathic.
+- perfectionist.
+- likes challenges.
+- doesn't like injustice.
+- sarcastic humor.
 
 #### Impact he wants to cause into visitors: 
-- Surprise and curiosity.
-- He aims te visitors want to know more and get in touch.
+- surprise and curiosity.
+- he aims that the visitors want to know more and get in touch.
 
 #### Language: English.
 
-#### Audience: international
+#### Audience: International
 
 ### Summary
 
