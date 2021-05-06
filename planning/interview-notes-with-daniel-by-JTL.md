@@ -70,7 +70,7 @@ The best way to do your interview is with a lot of `why?`. Start your interview 
 
 **Daniel** is a photographer and visual artist.
 
-#### Past: 
+#### Background (Gral & job): 
 There was no artist in his family so, trials in life took him to follow this path.
 Daniel has experience in social projects with NGO and International cooperation.
 
@@ -90,10 +90,9 @@ Daniel has experience in social projects with NGO and International cooperation.
 - 
   
 #### Future: 
-- He is open to develop< Artistic projects, working in NGO and coding websites for Architecture Companies as a freelance.
+- He is open to develop Artistic projects, working in NGO and coding websites for Architecture Companies as a freelance.
 
 #### Personality: 
-- Soft.
 - Empathic.
 - Perfectionist.
 - Likes challenges.
@@ -102,15 +101,15 @@ Daniel has experience in social projects with NGO and International cooperation.
 
 #### Impact he wants to cause into visitors: 
 - Surprise and curiosity.
-- He wants they to know more and get in touch.
-
-
+- He aims te visitors want to know more and get in touch.
 
 #### Language: English.
+
 #### Audience: international
+
 ### Summary
 
-<!-- Consolidate your notes into a few sentences. Do your best to express what your partner was trying to say, not what you learned from them. -->
+@danielhalasz is a visual artist who feels comfortable with computers and likes to try new methods and have new experiences. He looks to design a website for his personal projects and for exploring new coding technics and use different frameworks. He defines him self as an empathic person, perfectionist and like changes, so it gives the idea he is perspicacious and motivated. Daniel doesn't like narrowedminded people, injustices.
 
 [TOP](#steps)
 
