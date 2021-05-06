@@ -1,7 +1,7 @@
 # Designing Daniel's Home Page
 
 <!-- introduce your interviewee -->
-Interview with @danielhalasz @JTLiberona.
+Interview with @danielhalasz by @JTLiberona.
 
 
 ### Steps:
@@ -70,40 +70,40 @@ The best way to do your interview is with a lot of `why?`. Start your interview 
 
 **Daniel** is a photographer and visual artist.
 
-#### Background (Gral & job): 
-There was no artist in his family so, trials in life took him to follow this path.
+#### Background: 
+Trials in life took him to follow this path (there was no artist in his family).
 Daniel has experience in social projects with NGOs and international cooperation.
+He is doing artistic research at the Moholy-Nagy University of Art and at LUCA School of Art.
 
 #### IT experience: 
-- Has some experience with computers.
-- He feels comfortable with it.
-- He has experience in website design with HTML and Wordpress (editing templates) and a little JS.
+- He feels comfortable with computers.
+- He has some experience in website design with HTML and Wordpress (editing templates) and a little JS.
 
 #### Homepage:
 - He wants to explore new techniques and frameworks and use this homepage as a showcase. 
-- It would be nice to try animation in the website structure, for example: parallax effect.
+- It would be nice to try animation in the website structure, for example the parallax effect.
   
 #### Future: 
-- He is open to develop artistic projects, working in NGO and coding websites for architecture companies as a freelancer.
+- He is open to developing artistic projects, working with NGOs and coding websites for architecture companies as a freelancer.
 
 #### Personality: 
-- empathic.
-- perfectionist.
-- likes challenges.
-- doesn't like injustice.
-- sarcastic humor.
+- empathic
+- perfectionist
+- likes challenges
+- doesn't like injustice
+- sarcastic humor
 
 #### Impact he wants to cause into visitors: 
-- surprise and curiosity.
-- he aims that the visitors want to know more and get in touch.
+- surprise and curiosity
+- he aims that the visitors want to know more and get in touch
 
-#### Language: English.
+#### Language: English
 
 #### Audience: International
 
 ### Summary
 
-@danielhalasz is a visual artist who feels comfortable with computers and likes to try new methods and have new experiences. He looks to design a website for his personal projects and for exploring new coding technics and use different frameworks. He defines him self as an empathic person, perfectionist and like changes, so it gives the idea he is perspicacious and motivated. Daniel doesn't like narrowedminded people, injustices.
+@danielhalasz is a visual artist who feels comfortable with computers and likes to try new methods and have new experiences. He looks to design a website for his personal projects and for exploring new coding techniques and use different frameworks. He defines himself as an empathic person, perfectionist and likes challenges, so it gives the idea he is perspicacious and motivated. Daniel doesn't like narrowedminded people, injustice.
 
 [TOP](#steps)
 
