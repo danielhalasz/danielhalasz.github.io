@@ -68,11 +68,48 @@ The best way to do your interview is with a lot of `why?`. Start your interview 
 ---
 ### Notes
 
-<!-- Notes you took during the interview. -->
+**Daniel** is a photographer and visual artist.
+
+#### Background (Gral & job): 
+There was no artist in his family so, trials in life took him to follow this path.
+Daniel has experience in social projects with NGO and International cooperation.
+
+- PhD in the Arts (ongoing) //  LUCA School of Arts / KU Leuven
+- DLA Doctor of Liberal Arts (ongoing) //  Moholy-Nagy University of Art and Design
+- BFA + MFA Photography //  Moholy-Nagy University of Art and Design
+- Fine Art Photography // Glasgow School of Art
+
+#### IT experience: 
+- Has a background in computer.
+- He feels comfortable with it.
+- He has experience in website designin with HTML and Wordpress (Editing templates) and a little of JS.
+
+#### Homepage:
+- He wants to explore new technics and frameworks and use this homepage as a showcase. 
+- It would be nice to try animation in the website into the structure it, for example: 2 Layers, the first one allows to see the back one with moving( at scrolling.)
+- 
+  
+#### Future: 
+- He is open to develop Artistic projects, working in NGO and coding websites for Architecture Companies as a freelance.
+
+#### Personality: 
+- Empathic.
+- Perfectionist.
+- Likes challenges.
+- Doens't like injustice.
+- Sarcastic humor.
+
+#### Impact he wants to cause into visitors: 
+- Surprise and curiosity.
+- He aims te visitors want to know more and get in touch.
+
+#### Language: English.
+
+#### Audience: international
 
 ### Summary
 
-<!-- Consolidate your notes into a few sentences. Do your best to express what your partner was trying to say, not what you learned from them. -->
+@danielhalasz is a visual artist who feels comfortable with computers and likes to try new methods and have new experiences. He looks to design a website for his personal projects and for exploring new coding technics and use different frameworks. He defines him self as an empathic person, perfectionist and like changes, so it gives the idea he is perspicacious and motivated. Daniel doesn't like narrowedminded people, injustices.
 
 [TOP](#steps)
 
