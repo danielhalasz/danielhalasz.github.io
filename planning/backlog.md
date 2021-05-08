@@ -19,15 +19,22 @@ are necessary for basic usability:
 - **General User**: As a (Colaborator/NGO/Architecture company) I want I want to see everything clear so that I have a good experience.
   - [ ] Given when I visit the Homepage then I can see colors, fonts, media y scheme that make an armonic website.
   
-- **General User**: As a (Colaborator/NGO/Architecture company I need to know about the work of Daniel to have better comprehension of is web development skills and style so that I can make an opinion and see if I would like to work with him.
+- **General User**: As a (Colaborator/NGO/Architecture company) I need to know about the work of Daniel to have better comprehension of is web development skills and style so that I can make an opinion and see if I would like to work with him.
   - [ ] Given when I visit the Homepage then I can see the project button in the Navbar and then when I can see displayed the projects in a cronologic order from recently to older.
+
+- **General User**: As a (Colaborator/NGO/Architecture company) I would like to have a a better idea of each project o that I can make an opinion and see if I would like to work with him.
+  - [ ] Given when I visit the Project's page then I can see the a slider with pictures of the project.
 
 ## Should-Haves
 
 will complete the user experience, but are not necessary:
 
-**General User**: As a (Colaborator/NGO/Architecture company I would like to have a better and clean experience surfing into the website so that I can enjoy the content and make a better opinion of his skills on coding.
+**General User**: As a (Colaborator/NGO/Architecture company) I would like to have a better and clean experience surfing into the website so that I can enjoy the content and make a better opinion of his skills on coding.
   - [ ] Given when I visit website and the background is white scrolling effects. Then I can see in a better way his creativity and design skills.
+
+**General User**: As a (Colaborator/NGO/Architecture company) I would like to know more over the projects of Daniel so that I can discover more about his experience and projects developed/colaborated and codingstyle. 
+  - [ ] Given when I visit the website and the list of projects runs smoothly down in zigzag. Then I can see in a better way his creativity and design skills.
+
 
 ## Could-Haves
 
