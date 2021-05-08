@@ -1,5 +1,6 @@
-# Retrospective
+# Retrospective - Week 1
 
+We had excellent meetings, unfortunately usually late at night and therefore a bit tired :smiley:
 <!--
   compare your Development Strategy to your Project Board
   how different was your planned tasks from what you actually built?
@@ -20,6 +21,8 @@
 
 ## Continue Doing
 
+- keep the great discussion & the cool ideas flowing in the video calls
+
 <!--
   what did your group that worked vwell
   agree to keep doing these in the next project
@@ -31,6 +34,9 @@
 
 ## Start Doing
 
+- chat more on Slack outside of the late pm video calls
+- do quicker PR reviews
+  
 <!--
   what ideas does your group have for making a better project next time?
   agree to give these things a try in the next projec
@@ -42,6 +48,9 @@
 
 ## Lessons Learned
 
+- got new ideas for the development of the website
+- new inspiration
+  
 <!--
   what cool things or general lessons has your team learned?
   This can be about anything! code, collaboration, git, github, Belgian history, ...
