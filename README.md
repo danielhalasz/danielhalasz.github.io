@@ -4,8 +4,7 @@
 
 - This is going to be a constantly developing website during my HYF studies.
   
-- In the first two weeks of May 2021, there will be more intense development as part of the UX/UI module,
-  with contributions from @JTLiberona.
+- In the first two weeks of May 2021, there will be more intense development as part of the UX/UI module.
 
 - 🔭 I am going to use these languages and tools:  
 
@@ -14,3 +13,6 @@
 ![js](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 - Might also try Tailwind CSS and PixiJS.
+
+- Thanks for the contributions @JTLiberona.
+
