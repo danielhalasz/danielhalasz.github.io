@@ -10,7 +10,6 @@ are necessary for basic usability:
 - **General User**: As a (Colaborator/NGO/Architecture company) I would like to know who is Daniel so that I could have a better idea about his background and consequently of who is him.
   - [ ] Given by it self when I visit the home page then I read the information and also I cann see a button to the page about(Index).
 
-
 - **General User**: As a general user (Colaborator/NGO/Architecture company) I want to have a clear vision of the Homepage menu buttons so that I would have a precise sens of orientation and I could find the information quickly: 
   - [ ] Given when I visit then Homepage and I can see a clear navbar with buttons in different positions and they are not confusing to the audience.
 
@@ -28,7 +27,7 @@ are necessary for basic usability:
 will complete the user experience, but are not necessary:
 
 **General User**: As a (Colaborator/NGO/Architecture company I would like to have a better and clean experience surfing into the website so that I can enjoy the content and make a better opinion of his skills on coding.
-  - [ ] Given when I visit website and the background is designed in layers with scrolling effects over the second layer while the first one remain static*Or could scroll too) then I can see in a better way his creativity and design skills
+  - [ ] Given when I visit website and the background is white scrolling effects. Then I can see in a better way his creativity and design skills.
 
 ## Could-Haves
 
