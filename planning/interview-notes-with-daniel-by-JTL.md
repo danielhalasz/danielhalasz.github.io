@@ -36,10 +36,15 @@ Interview with @danielhalasz by @JTLiberona.
     - [Insights](#insights)
   - [4. Define the Problem](#4-define-the-problem)
   - [5. Open-Ended Ideation](#5-open-ended-ideation)
+    - [First Version:](#first-version)
   - [6. Partner Feedback](#6-partner-feedback)
     - [Notes](#notes-2)
     - [Summary](#summary-2)
   - [7. Plan](#7-plan)
+    - [BACKLOG](#backlog)
+    - [WIREFRAME Second Version:](#wireframe-second-version)
+      - [PC Optimized](#pc-optimized)
+      - [Mobile Optimized](#mobile-optimized)
   - [8. Design](#8-design)
   - [9. Final Feedback](#9-final-feedback)
     - [Notes](#notes-3)
@@ -180,17 +185,7 @@ Take some time to consolidate & summarize what you learned in the previous two i
 
 ## 4. Define the Problem
 
-In your own words describe:
-
-- Why your partner needs this home page
-- How they want to be represented
-- Who they want to see their page
-- How will these people interact with the page
-
-A useful format:
-
-- _partner's name_ needs a way to _?_.
-  - Unexpectedly, in their world, _?_.
+Daniel needs a website that calls the attention of potential colaborators, NGO or Achitecture companies. So he wants a sober and clean website but experimental, that can motivate and estimulate the UX through an UI given by the reaction between scrolling or cursor moving and the background.
 
 [TOP](#steps)
 
@@ -200,8 +195,11 @@ A useful format:
 
 Sketch up a few wireframes for your partner's home page with no regard for your their programming ability, time constraints, technical constraints, or any other practical considerations. How are they different? How does each one serve your partner differently?
 
-- [wireframe name]()
-- ...
+### First Version:
+- [wireframe Index/About](/wireframes_v1/Wirefram%20-%20About.png)
+- [wireframe Projects](/wireframes_v1/Wirefram%20-%20Projects.png)
+- [wireframe Contact](/wireframes_v1/Wirefram%20-%20Contact.png)
+
 
 [TOP](#steps)
 
@@ -212,6 +210,7 @@ Sketch up a few wireframes for your partner's home page with no regard for your 
 Discuss your ideas with your partner. lots of `why?`.
 
 ### Notes
+--- In the second interview.
 
 ### Summary
 
@@ -223,6 +222,20 @@ Discuss your ideas with your partner. lots of `why?`.
 
 With your partner, come up with a Backlog and Wireframe for their Home page
 
+### BACKLOG
+- [ Backlog file](/planning/backlog.md )
+
+### WIREFRAME Second Version:
+
+#### PC Optimized
+- [wireframe Index/About](/wireframes_v2/1%20Web%20-%20About.png)
+- [wireframe Projects](/wireframes_v2/2%20Web%20-%20Projects.png)
+- [wireframe Contact](/wireframes_v2/3%20Web%20-%20Contact.png)
+
+#### Mobile Optimized
+- [wireframe Index/About](/wireframes_v2/Mobile%20-%201About.png)
+- [wireframe Projects](/wireframes_v2/Mobile%20-%202Projects.png)
+- [wireframe Contact](/wireframes_v2/Mobile%20-%203Contact.png)
 [TOP](#steps)
 
 ---
@@ -231,7 +244,8 @@ With your partner, come up with a Backlog and Wireframe for their Home page
 
 Propose an Atomic Design for your partner's home page. This could include a color palate, button designs, icons, ...
 
-[TOP](#steps)
+[Referential Atomic Design](/design/referential-atomicdesign.png)
+[Referential Background](/design/bg-example.gif)
 
 ---
 
