@@ -114,15 +114,49 @@
       >
         <h2 class="uppercase">Contact</h2>
       </div>
-      <div
-        class="text1 col-start-7 col-end-11 row-start-2 relative top-10 -left-24 h-auto w-auto leading-7"
+      <form
+        class="text1 col-start-7 col-end-11 row-start-2 relative top-10 h-auto w-auto leading-7"
       >
-        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sapiente nam
-        aliquid amet expedita laudantium dolores nobis, iusto non minima eveniet
-        in. Iste voluptas sunt cumque suscipit natus repudiandae qui doloribus
-        reiciendis placeat nihil sapiente dolores quisquam nisi, molestias
-        exercitationem tempore.
-      </div>
+        <p>
+          <label class="relative top-1">Name</label><br />
+          <input
+            class="border-b-2 border-black w-80 mb-8"
+            type="text"
+            name="name"
+          />
+        </p>
+        <p>
+          <label class="relative top-1">Email</label><br />
+          <input
+            class="border-b-2 border-black w-80 mb-8"
+            type="email"
+            name="email"
+            required
+          />
+        </p>
+        <p>
+          <label class="relative top-1">Message</label><br />
+          <input
+            class="border-b-2 border-black w-80 mb-2"
+            type="text"
+            name="message"
+            required
+          />
+          <input
+            class="border-b-2 border-black w-80 mb-8"
+            type="text"
+            name="message"
+            required
+          />
+        </p>
+
+        <button
+          class="send col-start-7 row-start-2 bg-gray-200 relative top-2 w-min py-1 px-3 border-2 border-gray-500"
+        >
+          <h3>Send</h3>
+        </button>
+      </form>
+
       <!-- social -->
     </div>
   </body>
