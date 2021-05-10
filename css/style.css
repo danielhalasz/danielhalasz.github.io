@@ -6,6 +6,8 @@
   object-position: center bottom;
   object-position: 0px 20%;
   filter: grayscale() contrast(1.08) brightness(1.15);
+  image-rendering: -webkit-optimize-contrast;
+  /* image-rendering: optimizeQuality; */
 }
 
 .image_hello img {
@@ -16,6 +18,7 @@
   object-position: center bottom;
   object-position: 50% 0px;
   filter: grayscale() contrast(1.08) brightness(1.15);
+  image-rendering: -webkit-optimize-contrast;
 }
 
 .image_project img {
