@@ -7,3 +7,13 @@
   object-position: 0px 20%;
   filter: grayscale() contrast(1.08) brightness(1.15);
 }
+
+.image_hello img {
+  width: 320px;
+  height: 320px;
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: center bottom;
+  object-position: 50% 0px;
+  filter: grayscale() contrast(1.08) brightness(1.15);
+}
