@@ -12,7 +12,7 @@
 ![css3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![js](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-- Using Tailwind CSS and might also try PixiJS or p5.js.
+- Using Tailwind CSS and might also implement PixiJS or p5.js.
 
 - Thanks for the contributions @JTLiberona.
 
