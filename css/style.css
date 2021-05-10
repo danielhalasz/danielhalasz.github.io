@@ -17,3 +17,7 @@
   object-position: 50% 0px;
   filter: grayscale() contrast(1.08) brightness(1.15);
 }
+
+.image_project img {
+  filter: grayscale() contrast(1.08) brightness(1.15);
+}
