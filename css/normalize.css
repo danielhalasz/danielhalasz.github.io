@@ -168,7 +168,7 @@ textarea {
   margin: 0; /* 2 */
 }
 
-.input:focus {
+input:focus {
   outline:none;
 }
 
