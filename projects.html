@@ -11,6 +11,8 @@
     />
     <link rel="stylesheet" type="text/css" href="./css/style.css" />
     <script src="https://code.iconify.design/1/1.0.6/iconify.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/2.0.2/TweenMax.min.js"></script>
+
     <title>Daniel Halasz Portfolio</title>
   </head>
   <body>
@@ -110,44 +112,10 @@
         <img src="./img/code.jpg" alt="code" />
       </div>
 
-      <!-- about -->
-
-      <!-- <div
-        class="about col-start-7 row-start-2 bg-gray-200 relative -top-10 w-min max-h-12 p-3 border-t-2 border-black"
-      >
-        <h2 class="uppercase">About</h2>
-      </div>
-      <div
-        class="text1 col-start-7 col-end-11 row-start-2 relative top-10 -left-24 h-auto w-auto leading-7"
-      >
-        Hello, I am Daniel Halasz, a freelance developer wearing the glasses of
-        a photographer and an artistic researcher. Originally from Budapest and
-        having lived in Uganda and NYC, I am currently working remotely from
-        Brussels, enjoying the challenges of being a one-man-show and
-        collaborating with international teams.
-      </div> -->
-      <!-- <div
-        class="text1 col-start-5 col-end-10 row-start-2 mt-36 ml-16 h-auto w-auto"
-      >
-        .
-      </div> -->
-      <!-- dev skills -->
-      <!-- <div
-        class="devskills col-start-5 col-end-6 row-start-2 relative top-52 mt-2 left-20 bg-gray-200 w-max max-h-12 p-3 border-t-2 border-black"
-      >
-        <h2 class="uppercase">Development skills</h2>
-      </div>
-      <div
-        class="text1 col-start-5 col-end-11 row-start-3 relative -top-6 -left-1 h-auto w-auto leading-7"
-      >
-        JavaScript, React, MongoDB, Wordpress, PixiJS, HTML5, CSS3, GitHub
-        <br />Adobe Photoshop, Indesign, Lightroom, Premiere Pro, Final Cut Pro
-      </div> -->
-
       <!-- projects -->
       <div
         class="
-          about
+          about-projects
           col-start-7
           row-start-2
           bg-gray-200
@@ -209,5 +177,69 @@
 
       <!-- social -->
     </div>
+    <script>
+      // TweenMax.staggerFrom(".projects-nav", 2, {
+      //   delay: 0,
+      //   x: -20,
+      //   opacity: 0,
+      //   ease: Expo.easeInOut,
+      // });
+
+      TweenMax.staggerFrom(
+        ".button",
+        1.2,
+        {
+          delay: 0,
+          opacity: 0,
+          x: 0,
+          ease: Expo.easeInOut,
+        },
+        0.0
+      );
+      TweenMax.staggerFrom(
+        ".text1",
+        1.2,
+        {
+          delay: 0,
+          opacity: 0,
+          x: 0,
+          ease: Expo.easeInOut,
+        },
+        0.0
+      );
+      TweenMax.staggerFrom(
+        ".about-projects",
+        1.2,
+        {
+          delay: 0,
+          opacity: 0,
+          x: 0,
+          ease: Expo.easeInOut,
+        },
+        0.0
+      );
+      TweenMax.staggerFrom(
+        ".image_project",
+        1.2,
+        {
+          delay: 0,
+          opacity: 0,
+          x: 0,
+          ease: Expo.easeInOut,
+        },
+        0.0
+      );
+      TweenMax.from(
+        ".image",
+        1.2,
+        {
+          delay: 0,
+          opacity: 0,
+          x: 0,
+          ease: Expo.easeInOut,
+        },
+        0.0
+      );
+    </script>
   </body>
 </html>

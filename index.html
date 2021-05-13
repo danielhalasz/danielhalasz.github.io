@@ -11,16 +11,23 @@
     />
     <link rel="stylesheet" type="text/css" href="./css/style.css" />
     <script src="https://code.iconify.design/1/1.0.6/iconify.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/2.0.2/TweenMax.min.js"></script>
+    <script src="pixi.min.js"></script>
+
     <title>Daniel Halasz Portfolio</title>
   </head>
   <body>
+    <!-- pixi.js background -->
+
+    <script type="text/javascript"></script>
+
     <!-- navigation -->
     <div class="container grid grid-cols-10 auto-rows-auto">
       <div class="nav">
         <ul>
           <li
             class="
-              about
+              about-nav
               grid
               justify-items-center
               auto-cols-min
@@ -45,7 +52,7 @@
           </li>
           <li
             class="
-              projects
+              projects-nav
               grid
               justify-items-center
               auto-cols-min
@@ -70,7 +77,7 @@
           </li>
           <li
             class="
-              contact
+              contact-nav
               grid
               justify-items-center
               auto-cols-min
@@ -196,5 +203,54 @@
 
       <!-- social -->
     </div>
+
+    <!-- animation fade in -->
+
+    <script>
+      TweenMax.staggerFrom(
+        ".about",
+        1.2,
+        {
+          delay: 0,
+          opacity: 0,
+          x: 0,
+          ease: Expo.easeInOut,
+        },
+        0.0
+      );
+      TweenMax.staggerFrom(
+        ".text1",
+        1.2,
+        {
+          delay: 0,
+          opacity: 0,
+          x: 0,
+          ease: Expo.easeInOut,
+        },
+        0.0
+      );
+      TweenMax.staggerFrom(
+        ".devskills",
+        1.2,
+        {
+          delay: 0,
+          opacity: 0,
+          x: 0,
+          ease: Expo.easeInOut,
+        },
+        0.0
+      );
+      TweenMax.staggerFrom(
+        ".image",
+        1.2,
+        {
+          delay: 0,
+          opacity: 0,
+          x: 0,
+          ease: Expo.easeInOut,
+        },
+        0.0
+      );
+    </script>
   </body>
 </html>
