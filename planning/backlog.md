@@ -8,7 +8,7 @@ Written by [Jose Tomas Liberona](https://www.JTLiberona.github.io)
 are necessary for basic usability:
 
 - **General User**: As a (Colaborator/NGO/Architecture company) I would like to know who is Daniel so that I could have a better idea about his background and consequently of who is him.
-  - [ ] Given by it self when I visit the home page then I read the information and also I cann see a button to the page about(Index).
+  - [ ] Given by it self when I visit the home page then I read the information and also I can see a button to the page about(Index).
 
 - **General User**: As a general user (Colaborator/NGO/Architecture company) I want to have a clear vision of the Homepage menu buttons so that I would have a precise sens of orientation and I could find the information quickly: 
   - [ ] Given when I visit then Homepage and I can see a clear navbar with buttons in different positions and they are not confusing to the audience.
